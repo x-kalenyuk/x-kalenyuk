@@ -43,6 +43,6 @@ Nice to see you, my name is Xenia
     <a href="https://instagram.com/miss_xeniakalenyuk?igshid=MjEwN2IyYWYwYw==" target="_blank"><img alt="Instagram" width="25px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg"></a>
     <a href="x.kalenyuk@gmail.com" target="_blank"><img alt="Gmail" width="25px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg"></a> 
     <a href="https://t.me/XeniaKalenyuk">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-</a>
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+    <a href="https://hh.ru/applicant/resumes?hhtmFrom=main&hhtmFromLabel=header"> <img src="https://img.shields.io/badge/HH.ru-f82b1c?style=for-the-badge&Color=white" /></a>
 </p>  
